@@ -1,0 +1,30 @@
+# ==============================================================================
+# Regras de Exclusão - LP1 (C)
+# Pastas e arquivos que não devem ser incluídos no versionamento do Git
+# ==============================================================================
+
+# Pastas e materiais com enunciados/programas protegidos
+Programas/
+Material/
+Códigos Coringa para a Prova.pdf
+funçoes_c.txt
+funcoes_c.txt
+Exercícios/
+Exercicios/
+
+# ==============================================================================
+# Arquivos de Compilação em C
+# ==============================================================================
+*.exe
+*.o
+*.obj
+*.out
+
+# ==============================================================================
+# Configurações de IDEs e Sistema Operacional
+# ==============================================================================
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+.DS_Store

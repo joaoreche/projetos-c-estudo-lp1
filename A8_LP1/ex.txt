@@ -1,0 +1,7 @@
+Faça um programa para criptografar uma frase dada pelo usuário.
+a) crie uma função que receba a string, inverta a frase e troque as consoantes por #. (A
+própria string passada como argumento deverá ser alterada). Use notação ponteiro.
+b) Chame a função no main, criando as variáveis necessárias
+Exemplo:
+Frase: EU ESTOU NA ESCOLA
+Saída: A#O##E A# UO##E EU
